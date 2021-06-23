@@ -27,3 +27,5 @@ How to run it
 3- Select browser that you want to run it
 4- Click on giphyE2E test
 5- See results on the Cypress Console
+
+![image](https://user-images.githubusercontent.com/25432206/123019667-4b39a400-d3a7-11eb-8a5c-f64d2e53b9e6.png)
