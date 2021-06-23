@@ -1,0 +1,22 @@
+{
+  "name": "giphycypress",
+  "version": "1.0.0",
+  "description": "Repository in order to create Automated tests with Cypress on Giphy webpage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gonzalo-diamend/giphyCypress.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gonzalo-diamend/giphyCypress/issues"
+  },
+  "homepage": "https://github.com/gonzalo-diamend/giphyCypress#readme",
+  "dependencies": {
+    "cypress": "^7.5.0"
+  }
+}

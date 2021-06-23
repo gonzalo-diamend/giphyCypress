@@ -1,0 +1,11 @@
+{
+    "chromeWebSecurity": false,
+    "viewportHeight": 1080,
+    "viewportWidth": 1920,
+    "waitForAnimations": true,
+    "defaultCommandTimeout": 15000,
+    "execTimeout": 15000,
+    "pageLoadTimeout": 60000,
+    "retries": 0
+
+}
